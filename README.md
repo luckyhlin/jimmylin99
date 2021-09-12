@@ -3,7 +3,7 @@
 I was born in Lanzhou (a city in northwest of China) and grew up in Shanghai (a city in east coast of China).
 -->
 
-I grew up in China, a country with peace and love.
+I grew up in China, a country with peace and love❤️.
 
 After graduated from Shanghai Jiao Tong University in 2021, I am now working as a software engineer in Shanghai.
 
@@ -16,7 +16,7 @@ Recently, my interest lies in web surfing, various kinds of sports, fps gaming, 
 I'm currently learning how to live a more enjoyable and meaningful life. It's getting better~
 
 ### 基本信息
-我来自一个有爱的国家: 中国
+我来自一个有爱❤️的国家: 中国
 
 在2021年从上海交通大学毕业后，我开始从事软件开发工作
 
@@ -28,14 +28,15 @@ I'm currently learning how to live a more enjoyable and meaningful life. It's ge
 Major Languages:
 - Golang: In use
 - C/C++: Have used it during '15 to '20, mainly for algorithm contest and course study need
-- Python: Everyone knows it (haven't learnt it systematically)
+- Python: Life is short, I use _____ (haven't learnt it systematically)
 - *Interesting info: LOGO is the first language I have learnt, dating back to grade 3 in primary school*
 
 Basic understanding of CS preliminary knowledge: OS, DB, network, data structure and algorithm
 
 Basic understanding of AI: project experience in deep reinforcement learning
 
-
+### How to reach me
+You can contact me via Email😆: jimmylinh@icloud.com
 
 <!--
 **jimmylin99/jimmylin99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
