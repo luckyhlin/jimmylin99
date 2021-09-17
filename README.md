@@ -11,7 +11,7 @@ After graduated from Shanghai Jiao Tong University in 2021, I am now working as 
 Though my first meet with programming can date back to primary school, my experience in writing industrial level codes is limited.
 -->
 
-Recently, my interest lies in web surfing, various kinds of sports, fps gaming, AI as well as elegant and independent girls😝.
+Recently, my interest lies in web surfing, various kinds of sports, fps gaming, AI.
 
 I'm currently learning how to live a more enjoyable and meaningful life. It's getting better~
 
@@ -20,7 +20,7 @@ I'm currently learning how to live a more enjoyable and meaningful life. It's ge
 
 在2021年从上海交通大学毕业后，我开始从事软件开发工作
 
-我喜欢上网、各类运动、第一人称射击游戏、人工智能和知性独立的女孩儿😝
+我喜欢上网、各类运动、第一人称射击游戏、人工智能
 
 最近正在学着过更幸福的生活，一切都在变得更好~
 
