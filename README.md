@@ -5,24 +5,29 @@ I was born in Lanzhou (a city in northwest of China) and grew up in Shanghai (a 
 
 I grew up in China, a country with peace and love❤️.
 
-After graduated from Shanghai Jiao Tong University in 2021, I am now working as a software engineer in Shanghai.
+After graduated from Shanghai Jiao Tong University in 2021, I am now working as a software engineer in ByteDance, Shanghai.
 
 <!--
 Though my first meet with programming can date back to primary school, my experience in writing industrial level codes is limited.
 -->
 
-Recently, my interest lies in web surfing, various kinds of sports, fps gaming, AI.
+Recently, my interest lies in frontend & backend, distributed system, artificial intelligence.
+* I am now learning MIT 8.624 & about to read papers in AI field (especially reasoning)
+
+I am also a fan of FPS gaming (including APEX, Rainbow Six: Siege, CS:GO, Battelfield ☺️), with average ranking in most of them.
+
+My personal website is under construction, hope to become public soon~
 
 I'm currently learning how to live a more enjoyable and meaningful life. It's getting better~
 
-### 基本信息
+<!-- ### 基本信息
 我来自一个有爱❤️的国家: 中国
 
 在2021年从上海交通大学毕业后，我开始从事软件开发工作
 
 我喜欢上网、各类运动、第一人称射击游戏、人工智能
 
-最近正在学着过更幸福的生活，一切都在变得更好~
+最近正在学着过更幸福的生活，一切都在变得更好~ -->
 
 ### Tech Info
 Major Languages:
