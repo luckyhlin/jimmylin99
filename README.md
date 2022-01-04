@@ -1,4 +1,4 @@
-### Basic Information
+<!-- ### Basic Information -->
 <!--
 I was born in Lanzhou (a city in northwest of China) and grew up in Shanghai (a city in east coast of China).
 -->
@@ -12,7 +12,7 @@ Though my first meet with programming can date back to primary school, my experi
 -->
 
 Recently, my interest lies in frontend & backend, distributed system, artificial intelligence.
-* I am now learning MIT 8.624 & about to read papers in AI field (especially reasoning)
+* I am now learning MIT 6.824 & about to read papers in AI field (especially reasoning)
 
 I am also a fan of FPS gaming (including APEX, Rainbow Six: Siege, CS:GO, Battelfield ☺️), with average ranking in most of them.
 
