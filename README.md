@@ -3,22 +3,34 @@
 I was born in Lanzhou (a city in northwest of China) and grew up in Shanghai (a city in east coast of China).
 -->
 
+❤️ **Single**
+
+📚 Learning **MIT 6.824** & about to read papers in AI field (especially **reasoning**)
+
+🎮 Fan of **FPS gaming** (including APEX, Rainbow Six: Siege, CS:GO, Battelfield ☺️), with average ranking in most of them.
+
+🐹 Fan of **Golang**
+
+📷 Interested in fancy stuffs, e.g. photography
+
+---
+
+Plain Info:
+
 I grew up in China, a country with peace and love ❤️.
 
-After graduated from Shanghai Jiao Tong University in 2021, I am now working as a software engineer in ByteDance, Shanghai.
+Received my bachelor degree in Electrical and Computer Engineering (with minor in Data Science) from Shanghai Jiao Tong University in 2021
+
+Working as a backend software engineer in ByteDance, Shanghai
 
 <!--
 Though my first meet with programming can date back to primary school, my experience in writing industrial level codes is limited.
 -->
 
-Recently, my interest lies in frontend & backend, distributed system, artificial intelligence.
-* I am now learning MIT 6.824 & about to read papers in AI field (especially reasoning)
+<!-- Recently, my interest lies in frontend & backend, distributed system, artificial intelligence. -->
 
-I am also a fan of FPS gaming (including APEX, Rainbow Six: Siege, CS:GO, Battelfield ☺️), with average ranking in most of them.
+<!-- My personal website is under construction, hope to become public soon~ -->
 
-My personal website is under construction, hope to become public soon~
-
-I'm currently learning how to live a more enjoyable and meaningful life. It's getting better~
 
 <!-- ### 基本信息
 我来自一个有爱❤️的国家: 中国
@@ -29,8 +41,8 @@ I'm currently learning how to live a more enjoyable and meaningful life. It's ge
 
 最近正在学着过更幸福的生活，一切都在变得更好~ -->
 
-### Tech Info
-Major Languages:
+<!-- ### Tech Info -->
+<!-- Major Languages:
 - Golang: In use
 - C/C++: Have used it during '15 to '20, mainly for algorithm contest and course study need
 - Python: Life is short, I use _____ (haven't learnt it systematically)
@@ -38,11 +50,15 @@ Major Languages:
 
 Basic understanding of CS preliminary knowledge: OS, DB, network, data structure and algorithm
 
-Basic understanding of AI: project experience in deep reinforcement learning
+Basic understanding of AI: project experience in deep reinforcement learning -->
 
-### How to reach me
-You can contact me via Email😆: jimmylinh@icloud.com
+---
 
+How to reach me:
+
+You can contact me via Email 😆: jimmylinh@icloud.com
+
+I'm currently learning how to live a more enjoyable and meaningful life. Everything is getting better~
 <!--
 **jimmylin99/jimmylin99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
