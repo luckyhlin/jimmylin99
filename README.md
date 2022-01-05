@@ -3,7 +3,7 @@
 I was born in Lanzhou (a city in northwest of China) and grew up in Shanghai (a city in east coast of China).
 -->
 
-I grew up in China, a country with peace and love❤️.
+I grew up in China, a country with peace and love ❤️.
 
 After graduated from Shanghai Jiao Tong University in 2021, I am now working as a software engineer in ByteDance, Shanghai.
 
