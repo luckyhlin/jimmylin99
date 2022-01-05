@@ -17,6 +17,8 @@ I was born in Lanzhou (a city in northwest of China) and grew up in Shanghai (a 
 
 Plain Info:
 
+**Jimmy** is my English name; 🍑 **peachie** is my recent favorite username used online
+
 I grew up in China, a country with peace and love ❤️.
 
 Received my bachelor degree in Electrical and Computer Engineering (with minor in Data Science) from Shanghai Jiao Tong University in 2021
