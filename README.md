@@ -2,7 +2,7 @@
 <!--
 I was born in Lanzhou (a city in northwest of China) and grew up in Shanghai (a city in east coast of China).
 -->
-
+<!-- 
 ❤️ **Single**
 
 📚 Learning **MIT 6.824** & about to read papers in AI field (especially **reasoning**)
@@ -11,9 +11,9 @@ I was born in Lanzhou (a city in northwest of China) and grew up in Shanghai (a 
 
 🐹 Fan of **Golang**
 
-📷 Interested in fancy stuffs, e.g. photography
+📷 Interested in fancy stuffs, e.g. photography -->
 
----
+<!-- ---
 
 Plain Info:
 
@@ -23,7 +23,7 @@ I grew up in China, a country with peace and love ❤️.
 
 Received my bachelor degree in Electrical and Computer Engineering (with minor in Data Science) from Shanghai Jiao Tong University in 2021
 
-Working as a backend software engineer in ByteDance, Shanghai
+Working as a backend software engineer in ByteDance, Shanghai -->
 
 <!--
 Though my first meet with programming can date back to primary school, my experience in writing industrial level codes is limited.
@@ -54,7 +54,9 @@ Basic understanding of CS preliminary knowledge: OS, DB, network, data structure
 
 Basic understanding of AI: project experience in deep reinforcement learning -->
 
----
+<!-- --- -->
+
+Not much to say yet.
 
 How to reach me:
 
