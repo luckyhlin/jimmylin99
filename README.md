@@ -56,11 +56,13 @@ Basic understanding of AI: project experience in deep reinforcement learning -->
 
 <!-- --- -->
 
-Not much to say yet.
+Not much to say yet. I am now in a gap year after both receiving my B.Eng from UMJI-SJTU and working at ByteDance as a software engineer for a year.
 
 How to reach me:
 
 You can contact me via Email 😆: jimmylinh@icloud.com
+
+My personal site is under construction: https://personal-site-jimmylin99.vercel.app/
 
 I'm currently learning how to live a more enjoyable and meaningful life. Everything is getting better~
 <!--
